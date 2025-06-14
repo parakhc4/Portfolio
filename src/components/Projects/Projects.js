@@ -2,12 +2,11 @@ import React from "react";
 import { Container, Row, Col } from "react-bootstrap";
 import ProjectCard from "./ProjectCards";
 import Particle from "../Particle";
-import leaf from "../../Assets/Projects/leaf.png";
-import emotion from "../../Assets/Projects/emotion.png";
 import algoviz from "../../Assets/Projects/algoviz.png";
 import shl from "../../Assets/Projects/shl.png";
-import suicide from "../../Assets/Projects/suicide.png";
 import insync from "../../Assets/Projects/insync.png";
+import anilam from "../../Assets/Projects/anilam.png";
+import vincent from "../../Assets/Projects/vincent.png";
 
 function Projects() {
   return (
@@ -53,9 +52,32 @@ function Projects() {
               demoLink="https://parakhc4.github.io/algoviz/"              
             />
           </Col>
+
+                    <Col md={4} className="project-card">
+            <ProjectCard
+              imgPath={vincent}
+              isBlog={false}
+              title="Freelance - Vincent Inn 3D Tour"
+              description="Developed a Virtual 3D Tour for the Vincent Inn Hotel situated in Bhopal. Interactive Virtual Tour consists of functionalities such as sidebar, toggle night / day modes, etc. Deployed on Hotel's official website."
+              ghLink="https://github.com/parakhc4/Vincent_inn_3D_Tour/"
+              demoLink="https://thevincentinn.com/virtualtour/"              
+            />
+          </Col>
+
+                    <Col md={4} className="project-card">
+            <ProjectCard
+              imgPath={anilam}
+              isBlog={false}
+              title="Freelance - Villa Anilam 3D Tour"
+              description="Developed a Virtual 3D Tour for Villa Anilam situated in Jaipur. Interactive Virtual Tour consists of functionalities such as sidebar, toggle night / day modes, etc. Deployed on Villa's official website. "
+              ghLink="https://github.com/parakhc4/villa_anilam_tour"
+              demoLink="https://peacehouses.com/villaanilam/"              
+            />
+          </Col>
         </Row>
       </Container>
     </Container>
+    
   );
 }
 

@@ -2,6 +2,7 @@ import React from "react";
 import { Container, Row, Col } from "react-bootstrap";
 import homeLogo from "../../Assets/home-main.svg";
 import Particle from "../Particle";
+import myImg from "../../Assets/avatar.png";
 import Home2 from "./Home2";
 import Type from "./Type";
 
@@ -14,14 +15,14 @@ function Home() {
           <Row>
             <Col md={7} className="home-header">
               <h1 style={{ paddingBottom: 15 }} className="heading">
-                Hi There!{" "}
-                <span className="wave" role="img" aria-labelledby="wave">
+                Hey{" "}
+                {/* <span className="wave" role="img" aria-labelledby="wave">
                   👋🏻
-                </span>
+                </span> */}
               </h1>
 
               <h1 className="heading-name">
-                I'M
+                I am
                 <strong className="main-name"> Parakh Chaudhary</strong>
               </h1>
 
@@ -30,13 +31,8 @@ function Home() {
               </div>
             </Col>
 
-            <Col md={5} style={{ paddingBottom: 20 }}>
-              <img
-                src={homeLogo}
-                alt="home pic"
-                className="img-fluid"
-                style={{ maxHeight: "450px" }}
-              />
+            <Col md={5} style={{ paddingBottom: 40 }}>
+              <img src={myImg} className="img-fluid" alt="avatar" style={{ width: '65%' }}/>
             </Col>
           </Row>
         </Container>
