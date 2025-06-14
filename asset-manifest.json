@@ -1,28 +1,28 @@
 {
   "files": {
-    "main.css": "/Portfolio/static/css/main.f06f50dc.css",
-    "main.js": "/Portfolio/static/js/main.4b2d15c4.js",
-    "static/js/415.4d6acbeb.chunk.js": "/Portfolio/static/js/415.4d6acbeb.chunk.js",
-    "static/js/787.1ed0c42c.chunk.js": "/Portfolio/static/js/787.1ed0c42c.chunk.js",
-    "static/media/convoc-copy.png": "/Portfolio/static/media/convoc-copy.5da3247f3d71b64868c5.png",
-    "static/media/avatar.png": "/Portfolio/static/media/avatar.e9c77adf75f9e1d64926.png",
-    "static/media/vincent.png": "/Portfolio/static/media/vincent.b8adf7b92a7d62f7fed0.png",
-    "static/media/anilam.png": "/Portfolio/static/media/anilam.0a2e84a43bd390134964.png",
-    "static/media/Parakh_Chaudhary_Resume.pdf": "/Portfolio/static/media/Parakh_Chaudhary_Resume.62a43317a05bf7c17419.pdf",
-    "static/media/algoviz.png": "/Portfolio/static/media/algoviz.06239c0bf350795dbb66.png",
-    "static/media/insync.png": "/Portfolio/static/media/insync.2c03111d64ac57eca974.png",
-    "static/media/shl.png": "/Portfolio/static/media/shl.03cca26bf33b3a733806.png",
-    "static/media/home-main.svg": "/Portfolio/static/media/home-main.541f8179af8209ce03ccf2178fe62dbf.svg",
-    "static/media/logo.png": "/Portfolio/static/media/logo.ad159c70d73d399b86c7.png",
-    "static/media/pre.svg": "/Portfolio/static/media/pre.d4812f51c8c80976eaab.svg",
-    "index.html": "/Portfolio/index.html",
-    "main.f06f50dc.css.map": "/Portfolio/static/css/main.f06f50dc.css.map",
-    "main.4b2d15c4.js.map": "/Portfolio/static/js/main.4b2d15c4.js.map",
-    "415.4d6acbeb.chunk.js.map": "/Portfolio/static/js/415.4d6acbeb.chunk.js.map",
-    "787.1ed0c42c.chunk.js.map": "/Portfolio/static/js/787.1ed0c42c.chunk.js.map"
+    "main.css": "/static/css/main.1507c8a6.css",
+    "main.js": "/static/js/main.cb66e897.js",
+    "static/js/415.4d6acbeb.chunk.js": "/static/js/415.4d6acbeb.chunk.js",
+    "static/js/787.1ed0c42c.chunk.js": "/static/js/787.1ed0c42c.chunk.js",
+    "static/media/convoc-copy.png": "/static/media/convoc-copy.5da3247f3d71b64868c5.png",
+    "static/media/avatar.png": "/static/media/avatar.e9c77adf75f9e1d64926.png",
+    "static/media/vincent.png": "/static/media/vincent.b8adf7b92a7d62f7fed0.png",
+    "static/media/anilam.png": "/static/media/anilam.0a2e84a43bd390134964.png",
+    "static/media/Parakh_Chaudhary_Resume.pdf": "/static/media/Parakh_Chaudhary_Resume.62a43317a05bf7c17419.pdf",
+    "static/media/algoviz.png": "/static/media/algoviz.06239c0bf350795dbb66.png",
+    "static/media/insync.png": "/static/media/insync.2c03111d64ac57eca974.png",
+    "static/media/shl.png": "/static/media/shl.03cca26bf33b3a733806.png",
+    "static/media/home-main.svg": "/static/media/home-main.541f8179af8209ce03ccf2178fe62dbf.svg",
+    "static/media/logo.png": "/static/media/logo.ad159c70d73d399b86c7.png",
+    "static/media/pre.svg": "/static/media/pre.d4812f51c8c80976eaab.svg",
+    "index.html": "/index.html",
+    "main.1507c8a6.css.map": "/static/css/main.1507c8a6.css.map",
+    "main.cb66e897.js.map": "/static/js/main.cb66e897.js.map",
+    "415.4d6acbeb.chunk.js.map": "/static/js/415.4d6acbeb.chunk.js.map",
+    "787.1ed0c42c.chunk.js.map": "/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.f06f50dc.css",
-    "static/js/main.4b2d15c4.js"
+    "static/css/main.1507c8a6.css",
+    "static/js/main.cb66e897.js"
   ]
 }
