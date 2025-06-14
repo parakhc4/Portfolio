@@ -1,7 +1,16 @@
 {
   "name": "portfolio",
   "version": "0.1.0",
-  "homepage": "https://parakhc4.github.io/portfolio",
+  "homepage": "https://parakhc4.github.io/Portfolio",
+
+  "description": "Portfolio website showcasing projects, skills, and experiences.",
+  "keywords": [
+    "portfolio",
+    "react",
+    "web development",
+    "projects",
+    "skills"
+  ],
   "private": true,
   "dependencies": {
     "@react-pdf/renderer": "^2.2.0",
