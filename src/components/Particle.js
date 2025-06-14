@@ -19,8 +19,12 @@ function Particle() {
             opacity: 0.03,
           },
           move: {
-            direction: "right",
-            speed: 0.05,
+            enable: true,
+            speed: 0.55,             // A reasonable speed to see movement
+            direction: "none",      // "none" makes it random
+            random: true,           // Enables randomness
+            straight: true,        // Prevents straight-line movement
+            out_mode: "out",        // Particles that leave the canvas won't bounce
           },
           size: {
             value: 1,
