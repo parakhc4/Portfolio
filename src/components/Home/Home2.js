@@ -17,19 +17,19 @@ function Home2() {
         <Row>
           <Col md={8} className="home-about-description">
             <h1 style={{ fontSize: "2.6em" }}>
-              Some things about Me
+              About Me
             </h1>
             <p className="home-about-body">
-              I'm a <b className="purple">M.Tech Scholar</b> at NIT Bhopal
+              <b className="purple">M.Tech Scholar</b> at NIT Bhopal
               <br />
               <br />
               Published Researcher in the field of <b className="purple">LLMs</b> 
               <br />
               <br />
-              Interested in building smart, user-friendly web apps and diving into things like <b className="purple">AI and cloud infrastructure.</b>
+              Engineer with hands-on experience in building web apps, exploring <b className="purple">AI and scalable cloud infrastructure.</b>
               <br />
               <br />
-              I also develop Freelance 3D Tours for <b className="purple">Hotels and Resorts</b>
+              Freelance Virtual Tour developer for <b className="purple">Hotels and Resorts</b>
             </p>
           </Col>
           <Col md={4} className="myAvtar">
